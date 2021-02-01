@@ -8,6 +8,9 @@ client and
 server.
 After: run `npm install` in project directory
 
+Cloud storage: @google-cloud/storage - npm
+See: api/libs/keys/google-service-account-key.json(isRequired)
+
 ## Available Scripts
 
 start server:
